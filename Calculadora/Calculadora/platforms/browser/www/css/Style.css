@@ -1,0 +1,53 @@
+.botao1{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color: #34495e;
+    display: block;
+    float: left;
+    color: #ecf0f1;
+    font-weight: bold;
+    font-size: 12px;
+    border: 0px;
+    
+}
+.botao2{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color:#3498db;
+    display: block;
+    float: left;
+    color: #ecf0f1;
+    font-weight: bold;
+    font-size: 12px;
+    border: 0px;
+}
+.botao3{
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color: #e74c3c;
+    display: block;
+    float: left;
+    color: #ecf0f1;
+    font-weight: bold;
+    font-size: 12px;
+    border: 0px;
+}
+.tela{
+    height: 50px;
+    width: 199px;
+    padding: 5px;
+    text-align: right;
+    background-color: #FFF;
+    display: block;
+    float: left;
+    color: #000;
+    font-weight: bold;
+    font-size: 22px;
+    border: 2px solid #bdc3c7;
+}
+.botao1:active, .botao2:active, .botao3:active{
+    background-color: #1abc9c;
+}
